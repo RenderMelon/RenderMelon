@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2>Hi, I'm Ruben Uijtdewilligen! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>I like to spend my time working on <a href="https://slapman.xyz/">Slapman</a>. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**RenderMelon/RenderMelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👇 Hit this in your terminal for an easy contact menu!
 
-Here are some ideas to get you started:
+```bash
+npx rubenu
+```
+**👆 This command line tool can be found at [npx rubenu](https://github.com/RenderMelon/npx-card)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little more about me...
+```javascript
+const ruben = {
+    pronouns: 'he' |'him',
+    programmingLanguages: ['javascript', 'java'],
+    askMeAbout: ['web development', 'minecraft plugins', 'random facts'],
+    technologies: {
+        frontEnd: {
+            js: ['react', 'static', 'ejs'],
+            css: ['skeletoncss', 'bulma', 'bootstrap']
+        },
+        backEnd: {
+            js: ['node', 'express'],
+            'c#': ['nancyfx']
+        },
+        databases: ['mongo', 'mysql', 'sqlite'],
+    },
+    thingsILike: ['pterodactyl.io', 'discord.com' 'devbest.com', 'textfancy.com', 'thatgeek.dev'],
+    funFact: 'There are two ways to write error-free programs; only the third one works'
+};
+```
