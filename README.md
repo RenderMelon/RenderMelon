@@ -9,7 +9,7 @@ npx rubenu
 ```
 **👆 This command line tool can be found at [npx rubenu](https://github.com/RenderMelon/npx-card)**
 
-A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const ruben = {
     pronouns: 'he' |'him',
